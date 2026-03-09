@@ -1,4 +1,5 @@
-# Programa Semana!
+# Programa qual é o dia da semana?!
+
 Programa criado para ver qual é o dia da semana de acordo com os números de 1 à 7. Programa feito com os especificadores if-else e switch.
 
 Nesse caso, você começa declarando a variável dia do tipo int para armazenar o número do dia da semana. Depois, você decide que hoje é terça-feira e atribui o valor 3 para a variável dia.
